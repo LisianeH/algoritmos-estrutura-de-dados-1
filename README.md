@@ -28,6 +28,6 @@ Durante o semestre, são abordados conceitos fundamentais como:
 
 Este espaço serve como um histórico de aprendizagem e prática, sendo atualizado com os códigos desenvolvidos em aula, exercícios e desafios extras. É também um recurso para revisar conceitos e acompanhar a evolução ao longo do semestre.
 
----
+##
 
 Sinta-se à vontade para explorar, estudar e contribuir!
